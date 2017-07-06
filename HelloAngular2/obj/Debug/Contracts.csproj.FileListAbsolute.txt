@@ -1,0 +1,192 @@
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\ApplicationInsights.config
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\roslyn\csc.exe
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\roslyn\vbc.exe
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\roslyn\VBCSCompiler.exe
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\HelloAngular2.dll.config
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\HelloAngular2.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\HelloAngular2.pdb
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Antlr3.Runtime.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.AI.Web.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.ApplicationInsights.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Google.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Newtonsoft.Json.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Owin.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\System.Web.Helpers.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\System.Web.Mvc.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\System.Web.Optimization.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\System.Web.Razor.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\System.Web.WebPages.Deployment.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\System.Web.WebPages.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\System.Web.WebPages.Razor.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\WebGrease.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.AI.Web.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.ApplicationInsights.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\System.Web.Helpers.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\System.Web.Mvc.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\System.Web.Optimization.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\System.Web.Razor.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\System.Web.WebPages.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\System.Web.WebPages.Deployment.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\System.Web.WebPages.Razor.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Antlr3.Runtime.pdb
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Newtonsoft.Json.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Google.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\obj\Debug\HelloAngular2.dll
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\obj\Debug\HelloAngular2.pdb
+D:\Users\krzysztof.ligeska\Documents\Visual Studio 2015\Projects\HelloAngular2\HelloAngular2\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\ApplicationInsights.config
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\roslyn\csc.exe
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\roslyn\vbc.exe
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\roslyn\VBCSCompiler.exe
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\HelloAngular2.dll.config
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\HelloAngular2.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\HelloAngular2.pdb
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Antlr3.Runtime.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Google.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Newtonsoft.Json.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Owin.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\System.Web.Helpers.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\System.Web.Mvc.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\System.Web.Optimization.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\System.Web.Razor.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\System.Web.WebPages.Deployment.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\System.Web.WebPages.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\System.Web.WebPages.Razor.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\WebGrease.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\System.Web.Helpers.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\System.Web.Mvc.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\System.Web.Optimization.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\System.Web.Razor.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\System.Web.WebPages.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\System.Web.WebPages.Deployment.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\System.Web.WebPages.Razor.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Antlr3.Runtime.pdb
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Newtonsoft.Json.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Google.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\obj\Debug\HelloAngular2.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\HelloAngular2\HelloAngular2\obj\Debug\HelloAngular2.pdb
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\ApplicationInsights.config
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\roslyn\csc.exe
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\roslyn\vbc.exe
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\roslyn\VBCSCompiler.exe
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\HelloAngular2.dll.config
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\HelloAngular2.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\HelloAngular2.pdb
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Antlr3.Runtime.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Security.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Security.Google.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Newtonsoft.Json.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Owin.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\System.Web.Helpers.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\System.Web.Mvc.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\System.Web.Optimization.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\System.Web.Razor.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\System.Web.WebPages.Deployment.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\System.Web.WebPages.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\System.Web.WebPages.Razor.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\WebGrease.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\System.Web.Helpers.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\System.Web.Mvc.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\System.Web.Optimization.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\System.Web.Razor.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\System.Web.WebPages.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\System.Web.WebPages.Deployment.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\System.Web.WebPages.Razor.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Antlr3.Runtime.pdb
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Newtonsoft.Json.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Security.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Security.Google.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\obj\Debug\HelloAngular2.dll
+D:\Users\krzysztof.ligeska\Documents\Books\Angular\projects\Contracts\HelloAngular2\obj\Debug\HelloAngular2.pdb
